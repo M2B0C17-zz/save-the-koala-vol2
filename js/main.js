@@ -3,3 +3,5 @@
 $(function () {
   $('[data-toggle="tooltip"]').tooltip()
 })
+
+// Modal - Boton 2
