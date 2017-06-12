@@ -225,6 +225,15 @@ h4{
 	text-align: center;
 }
 
+#collapseExample{
+	background: #41521F;
+	color: whitesmoke;
+	padding: 7px 0px 7px 25px;
+	height: auto;
+	border: 0.5px solid #41521F;
+	border-radius: 10px;
+}
+
 /*SECCIÓN 7*/
 
 .container7{
