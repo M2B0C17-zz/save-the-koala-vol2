@@ -155,6 +155,16 @@ h4{
 	text-align: center;
 }
 
+.containerFoto{
+	width: 100%;
+	height: 710px;
+}
+
+.slideFoto{
+	width: 100%;
+	height: auto;
+}
+
 /*SECCIÓN 6*/
 
 .container6{
